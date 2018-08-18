@@ -55,7 +55,7 @@
         </activity>
         <activity
             android:name=".Activity_Timeover"
-            android:label="ActivityTimeover">
+            android:label="Timeover">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -64,7 +64,7 @@
         </activity>
         <activity
             android:name=".Activity_Addresult"
-            android:label="ActivityAddresult">
+            android:label="Addresult">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -73,7 +73,7 @@
         </activity>
         <activity
             android:name=".Activity_Editprofile"
-            android:label="ActivityEditprofile">
+            android:label="Editprofile">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -82,7 +82,7 @@
         </activity>
         <activity
             android:name=".Activity_Addagent"
-            android:label="ActivityAddagent">
+            android:label="Addagent">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -91,7 +91,7 @@
         </activity>
         <activity
             android:name=".Activity_Results"
-            android:label="ActivityResults">
+            android:label="Results">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -100,7 +100,97 @@
         </activity>
         <activity
             android:name=".Activity_Checkprize"
-            android:label="ActivityCheckprize">
+            android:label="Checkprize">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Activity_distribution"
+            android:label="distribution">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Activity_invoice"
+            android:label="invoice">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Activity_Date"
+            android:label="date">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Activity_collection"
+            android:label="Collection">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ActivityInvoiceset1"
+            android:label="Invoiceset1">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Activity_Cash"
+            android:label="Cash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Activity_Addexpenses"
+            android:label="Expenses">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Activity_Returncollection"
+            android:label="ReturnCollection">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Activity_Transactions"
+            android:label="Transactions">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Activity_Prizes"
+            android:label="Prizes">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
